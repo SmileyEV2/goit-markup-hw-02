@@ -1,0 +1,111 @@
+.list {
+    list-style-type: none;
+}
+.link {
+    text-decoration: none;
+}
+button {
+    cursor: pointer;
+    border-radius: 4px;
+    background: #4D5AE5;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.64px;
+}
+
+body {
+    background: #FFF;  
+}
+
+header {
+    border-bottom: #E7E9FC;
+    background: #FFF;
+}
+
+.team-section {
+    background: #F4F4FD;
+}
+
+footer {
+    background: #2E2F42;
+}
+
+h1 {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+    text-align: center;
+}
+
+h2 {
+    color: var(--NAVY-BLUE, #2E2F42);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+
+h3 {
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+
+p {
+color: #434455;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.32px;
+}
+
+.main-contacts {
+    color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.main-nav {
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+.logo {
+    color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+.main-logo {
+    color: #2E2F42;
+}
+
+.main-logo-footer {
+    color: #F4F4FD;
+}
+.order-service {
+    background: #2E2F42;
+}
